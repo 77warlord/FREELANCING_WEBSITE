@@ -142,14 +142,6 @@ The backend of freelancing website provides a range of features and functionalit
 
 ## Screenshots
 
-- Login and Signup functionality
-  
-![Screenshot (12)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/78fd3429-6af9-449d-92af-25a27eca036e)
-
-- Set User Profile
-  
-![Screenshot (13)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/50ce13a1-46a4-4c2e-9579-7efbaad5ba28)
-
 - Create Gigs
   
 ![Screenshot (11)](https://github.com/adithyamode/FreelancingWebsite/assets/123758039/7bc63eb9-4906-462e-a02f-797b90fb3f97)
